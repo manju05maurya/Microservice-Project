@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../employee_project"
+		},
+		{
+			"name": "address_project_emp",
+			"path": "../../../../../.."
+		},
+		{
+			"path": "../../../../../../../New folder"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

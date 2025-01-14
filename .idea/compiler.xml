@@ -8,15 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="employee_project" />
+        <module name="Service-Discovery" />
         <module name="address_project_emp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="address_project_emp" target="1.8" />
+      <module name="address_project_emp" target="17" />
       <module name="demo" target="17" />
-      <module name="employee_project" target="1.8" />
+      <module name="employee_project" target="17" />
       <module name="project1" target="17" />
-      <module name="Service-Discovery" target="1.8" />
+      <module name="Service-Discovery" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Service-Discovery/Service-Discovery.iml" filepath="$PROJECT_DIR$/Service-Discovery/Service-Discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/address_project_emp/address_project_emp.iml" filepath="$PROJECT_DIR$/address_project_emp/address_project_emp.iml" />
       <module fileurl="file://$PROJECT_DIR$/employee_project/employee_project.iml" filepath="$PROJECT_DIR$/employee_project/employee_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
